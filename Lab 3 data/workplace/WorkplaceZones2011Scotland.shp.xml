@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd"> -->
+<metadata xml:lang="en"><Esri><CreaDate>20160908</CreaDate><CreaTime>13463800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce></Esri><gmd:GEMINI_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+		<gmd:fileIdentifier>
+			<gco:CharacterString>ff7b7a89-c362-42ea-a8a9-cc6aeafd968a</gco:CharacterString>
+		</gmd:fileIdentifier>
+		<gmd:hierarchyLevel>
+			<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">Dataset</gmd:MD_ScopeCode>
+		</gmd:hierarchyLevel>
+		<gmd:dateStamp>
+			<gco:Date>2016-09-14</gco:Date>
+		</gmd:dateStamp>
+		<gmd:language>
+			<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">English</gmd:LanguageCode>
+		</gmd:language>
+		<gmd:identificationInfo>
+			<gmd:MD_DataIdentification>
+				<gmd:language>
+					<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">English</gmd:LanguageCode>
+				</gmd:language>
+				<gmd:abstract>
+					<gco:CharacterString>Workplace Zones (WZs) are a new output geography, initially produced using workplace data from the 2011 Census for England and Wales rather than the UK as a whole. They are designed to supplement the Output Area (OA) and Super Output Area (LSOA and MSOA) geographies that were introduced with the 2001 Census, and have been constructed from OAs, or sub-divisions of these called postcode-level building-blocks (PCBBs). While OAs are designed to contain consistent numbers of persons based on where they live, WZs are designed to contain consistent numbers of workers, based on where people work.
+
+Following publication of WZs for England and Wales, coverage has subsequently been extended to include Scotland and Northern Ireland using 2011 Census data to create a UK set of WZs produced by the Office for National Statistics (ONS) on behalf of National Records of Scotland (NRS) and the Northern Ireland Statistics and Research Agency (NISRA). WZs are designed to be a more suitable output geography for publishing workplace statistics.</gco:CharacterString>
+				</gmd:abstract>
+				<gmd:spatialResolution>
+					<gmd:MD_Resolution>
+						<gmd:distance>
+							<gco:Distance uom="Meters">0.0001</gco:Distance>
+						</gmd:distance>
+						<gmd:equivalentScale>
+							<gmd:MD_RepresentativeFraction>
+								<gmd:denominator>
+									<gco:Integer>10000</gco:Integer>
+								</gmd:denominator>
+							</gmd:MD_RepresentativeFraction>
+						</gmd:equivalentScale>
+					</gmd:MD_Resolution>
+				</gmd:spatialResolution>
+				<gmd:citation>
+					<gmd:CI_Citation>
+						<gmd:title>
+							<gco:CharacterString>Workplace Zones 2011 Scotland</gco:CharacterString>
+						</gmd:title>
+						<gmd:date>
+							<gmd:CI_Date>
+								<gmd:date>
+									<gco:Date>2016-09-14</gco:Date>
+								</gmd:date>
+								<gmd:dateType>
+									<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+								</gmd:dateType>
+							</gmd:CI_Date>
+						</gmd:date>
+						<gmd:date>
+							<gmd:CI_Date>
+								<gmd:date>
+									<gco:Date>2016-09-14</gco:Date>
+								</gmd:date>
+								<gmd:dateType>
+									<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">Creation</gmd:CI_DateTypeCode>
+								</gmd:dateType>
+							</gmd:CI_Date>
+						</gmd:date>
+						<gmd:identifier>
+							<gmd:RS_Identifier>
+								<gmd:code>
+									<gco:CharacterString>Workplace Zones 2011 Scotland</gco:CharacterString>
+								</gmd:code>
+								<gmd:codeSpace>
+									<gco:CharacterString>www.nrscotland.gov.uk</gco:CharacterString>
+								</gmd:codeSpace>
+							</gmd:RS_Identifier>
+						</gmd:identifier>
+					</gmd:CI_Citation>
+				</gmd:citation>
+				<gmd:topicCategory>
+					<gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+				</gmd:topicCategory>
+				<gmd:descriptiveKeywords>
+					<gmd:MD_Keywords>
+						<gmd:keyword>
+							<gco:CharacterString>Statistical Units</gco:CharacterString>
+						</gmd:keyword>
+						<gmd:thesaurusName>
+							<gmd:CI_Citation>
+								<gmd:title>
+									<gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+								</gmd:title>
+								<gmd:date>
+									<gmd:CI_Date>
+										<gmd:date>
+											<gco:Date>2008-06-01</gco:Date>
+										</gmd:date>
+										<gmd:dateType>
+											<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+										</gmd:dateType>
+									</gmd:CI_Date>
+								</gmd:date>
+							</gmd:CI_Citation>
+						</gmd:thesaurusName>
+						<gmd:type>
+							<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+						</gmd:type>
+					</gmd:MD_Keywords>
+				</gmd:descriptiveKeywords>
+				<gmd:extent>
+					<gmd:EX_Extent>
+						<gmd:geographicElement>
+							<gmd:EX_GeographicDescription>
+								<gmd:geographicIdentifier>
+									<gmd:RS_Identifier>
+										<gmd:code>
+											<gco:CharacterString>SCT</gco:CharacterString>
+										</gmd:code>
+										<gmd:authority>
+											<gmd:CI_Citation>
+												<gmd:title>
+													<gco:CharacterString>ISO3166-2</gco:CharacterString>
+												</gmd:title>
+												<gmd:date>
+													<gmd:CI_Date>
+														<gmd:date>
+															<gco:Date/>
+														</gmd:date>
+														<gmd:dateType>
+															<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue=""/>
+														</gmd:dateType>
+													</gmd:CI_Date>
+												</gmd:date>
+											</gmd:CI_Citation>
+										</gmd:authority>
+									</gmd:RS_Identifier>
+								</gmd:geographicIdentifier>
+							</gmd:EX_GeographicDescription>
+						</gmd:geographicElement>
+						<gmd:geographicElement>
+							<gmd:EX_GeographicBoundingBox>
+								<gmd:westBoundLongitude>
+									<gco:Decimal>-7.75714</gco:Decimal>
+								</gmd:westBoundLongitude>
+								<gmd:eastBoundLongitude>
+									<gco:Decimal>-0.53202</gco:Decimal>
+								</gmd:eastBoundLongitude>
+								<gmd:southBoundLatitude>
+									<gco:Decimal>54.53297</gco:Decimal>
+								</gmd:southBoundLatitude>
+								<gmd:northBoundLatitude>
+									<gco:Decimal>61.46459</gco:Decimal>
+								</gmd:northBoundLatitude>
+							</gmd:EX_GeographicBoundingBox>
+						</gmd:geographicElement>
+						<gmd:temporalElement>
+							<gmd:EX_TemporalExtent>
+								<gmd:extent>
+									<gml:TimePeriod>
+										<gml:beginPosition>2011-01-01</gml:beginPosition>
+										<gml:endPosition>2011-01-01</gml:endPosition>
+									</gml:TimePeriod>
+								</gmd:extent>
+							</gmd:EX_TemporalExtent>
+						</gmd:temporalElement>
+					</gmd:EX_Extent>
+				</gmd:extent>
+				<gmd:pointOfContact>
+					<gmd:CI_ResponsibleParty>
+						<gmd:organisationName>
+							<gco:CharacterString>National Records of Scotland</gco:CharacterString>
+						</gmd:organisationName>
+						<gmd:positionName>
+							<gco:CharacterString>Geography Branch</gco:CharacterString>
+						</gmd:positionName>
+						<gmd:contactInfo>
+							<gmd:CI_Contact>
+								<gmd:address>
+									<gmd:CI_Address>
+										<gmd:deliveryPoint>
+											<gco:CharacterString>Ladywell House, Ladywell Road</gco:CharacterString>
+										</gmd:deliveryPoint>
+										<gmd:city>
+											<gco:CharacterString>Edinburgh</gco:CharacterString>
+										</gmd:city>
+										<gmd:postalCode>
+											<gco:CharacterString>EH12 7TF</gco:CharacterString>
+										</gmd:postalCode>
+										<gmd:electronicMailAddress>
+											<gco:CharacterString>geographycustomerservices@nrscotland.gov.uk</gco:CharacterString>
+										</gmd:electronicMailAddress>
+										<gmd:country>
+											<gmd:Country codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#Country" codeListValue="GBR">United Kingdom of Great Britain &amp; N. Ireland</gmd:Country>
+										</gmd:country>
+									</gmd:CI_Address>
+								</gmd:address>
+							</gmd:CI_Contact>
+						</gmd:contactInfo>
+						<gmd:role>
+							<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="owner">Owner</gmd:CI_RoleCode>
+						</gmd:role>
+					</gmd:CI_ResponsibleParty>
+				</gmd:pointOfContact>
+				<gmd:resourceConstraints>
+					<gmd:MD_Constraints>
+						<gmd:useLimitation>
+							<gco:CharacterString>Please note that publication of any information using the Scottish workplace zone boundaries the following copyright statement must be incorporated:</gco:CharacterString>
+						</gmd:useLimitation>
+					</gmd:MD_Constraints>
+				</gmd:resourceConstraints>
+				<gmd:resourceConstraints>
+					<gmd:MD_LegalConstraints>
+						<gmd:otherConstraints>
+							<gco:CharacterString>Available under the Ordnance Survey (OS) Open Data Licence (www.ordnancesurvey.co.uk/opendata/licence)</gco:CharacterString>
+						</gmd:otherConstraints>
+					</gmd:MD_LegalConstraints>
+				</gmd:resourceConstraints>
+				<gmd:resourceMaintenance>
+					<gmd:MD_MaintenanceInformation>
+						<gmd:maintenanceAndUpdateFrequency>
+							<gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">As needed</gmd:MD_MaintenanceFrequencyCode>
+						</gmd:maintenanceAndUpdateFrequency>
+					</gmd:MD_MaintenanceInformation>
+				</gmd:resourceMaintenance>
+			</gmd:MD_DataIdentification>
+		</gmd:identificationInfo>
+		<gmd:distributionInfo>
+			<gmd:MD_Distribution>
+				<gmd:transferOptions>
+					<gmd:MD_DigitalTransferOptions>
+						<gmd:onLine>
+							<gmd:CI_OnlineResource>
+								<gmd:linkage>
+									<gmd:URL>http://www.nrscotland.gov.uk/statistics-and-data/geography/our-products/census-datasets/2011-census/2011-boundaries</gmd:URL>
+								</gmd:linkage>
+							</gmd:CI_OnlineResource>
+						</gmd:onLine>
+					</gmd:MD_DigitalTransferOptions>
+				</gmd:transferOptions>
+				<gmd:distributionFormat>
+					<gmd:MD_Format>
+						<gmd:name>
+							<gco:CharacterString>ESRI Arc/View Shapefile</gco:CharacterString>
+						</gmd:name>
+						<gmd:version>
+							<gco:CharacterString>10.1</gco:CharacterString>
+						</gmd:version>
+					</gmd:MD_Format>
+				</gmd:distributionFormat>
+				<gmd:distributionFormat>
+					<gmd:MD_Format>
+						<gmd:name>
+							<gco:CharacterString>WMS 1.3.0</gco:CharacterString>
+						</gmd:name>
+						<gmd:version>
+							<gco:CharacterString></gco:CharacterString>
+						</gmd:version>
+					</gmd:MD_Format>
+				</gmd:distributionFormat>
+			</gmd:MD_Distribution>
+		</gmd:distributionInfo>
+		<gmd:dataQualityInfo>
+			<gmd:DQ_DataQuality>
+				<gmd:lineage>
+					<gmd:LI_Lineage>
+						<gmd:statement>
+							<gco:CharacterString>Workplace Zones (WZs) are a new output geography, initially produced using workplace data from the 2011 Census for England and Wales rather than the UK as a whole. They are designed to supplement the Output Area (OA) and Super Output Area (LSOA and MSOA) geographies that were introduced with the 2001 Census, and have been constructed from OAs, or sub-divisions of these called postcode-level building-blocks (PCBBs). While OAs are designed to contain consistent numbers of persons based on where they live, WZs are designed to contain consistent numbers of workers, based on where people work.
+ 
+Following publication of WZs for England and Wales, coverage has subsequently been extended to include Scotland and Northern Ireland using 2011 Census data to create a UK set of WZs produced by the Office for National Statistics (ONS) on behalf of National Records of Scotland (NRS) and the Northern Ireland Statistics and Research Agency (NISRA). WZs are designed to be a more suitable output geography for publishing workplace statistics. 
+
+Methodology for creating WZs in England and Wales
+
+Assign workers to OAs
+
+Initially, the individual-level census workplace data were allocated to OAs using each respondent’s workplace postcode rather than their home address. The self-reported census data don’t permit the identification of individual workplaces with a high degree of certainty, so the workplace postcode was used as a proxy for a workplace. These data were then aggregated by workplace postcode to provide, for each OA, the postcode and industry classification (using standard industry classification) of each workplace, the number of workplaces and the number of workers at each workplace. These were then compared to determine if OA values based on the working population were
+
+•	Under-threshold: Contained less than 200 workers or less than three postcodes
+
+•	Within-threshold: contained 200-625 workers and at least three postcodes
+
+•	Over-threshold: Contained more than 625 workers
+
+These were based on the requirement to prevent the identification of an individual worker, or employer (as a body corporate). As a proxy for workplaces, each WZ was required to contain a minimum of three postcodes, and to provide the same level of protection from disclosure as for residential population, a postcode’s workers must be combined with at least 100 additional workers to form a valid WZ.
+
+Merging under-thresholds OAs to create WZs
+
+Under- and within-threshold OAs were gathered into one subset (UT/WT), the over-threshold OAs into another (OT). These two subsets of OAs were processed separately using the Automated Zone (AZ) tool (in combination with Feature Manipulation Engine (FME) which was used to convert between file formats), on the way to being transformed into WZs. The objective was to create WZs that were as internally homogeneous as possible in terms of industry, and also as compact as possible – measured by a compactness score. 
+
+For the UT/WT subset, a set of draft WZs were produced from unchanged OAs and OA mergers. Under-threshold OAs were allowed to merge with other under-threshold or within-threshold OAs in the same MSOA, but mergers with over-threshold OAs were not permitted. This was to ensure that the risk of differencing was minimised.
+
+Splitting over-threshold OAs to create WZs 
+
+For the OT subset of OAs, workplace unit postcodes that were live on census day were used to generate point data in a GIS. Stacked features – where multiple postcodes were represented at a single geometric point (for example representing a tower block) – were merged into a single feature. Postcode building blocks were generated based on Thiessen polygons, constrained to OA (Extent of the Realm) boundaries. They were also realigned to public roads via the Ordnance Survey (OS) MasterMap Integrated Transport Network (ITN) road network and rail via OS Meridian 2. This was done to ensure that the boundaries of WZs followed these recognisable features on the ground wherever possible. If a polygon smaller than 10 square metres was produced, this was dissolved and merged with the neighbouring polygon with which it shared the longest boundary. 
+
+Each postcode-level building-block had to comprise one single polygon: combined ‘multipart’ features were not permitted. The creation of building-blocks which did not contain any workplace addresses was avoided as far as possible. For OAs where this nevertheless did occur, a single coterminous workplace postcode polygon had to be created and zero counts assigned to it. The resulting building-blocks were checked for topology to ensure that no slivers or overlaps existed. 
+
+In a similar manner to the UT/WT OAs, postcode building blocks from each OT OA in turn were combined and recombined using AZTool to form sets of candidate WZs that met the required constraints. The best performing set of WZ was selected on the basis of having the minimum deviation from the target of three postcodes in each WZ, maximum internal industry homogeneity and greatest compactness. In situations where a solution wasn’t possible, the OA was rerun with progressively more relaxed sets of criteria. The resulting WZs were combined with those from the UT/WT processing to generate an England and Wales wide set.
+
+Differences in Methodology for creating WZs for Scotland and Northern Ireland
+
+When creating a set of WZs for Scotland and Northern Ireland the aim was to keep the methodology as consistent as possible with that used for England and Wales. However, due to inconsistencies in census geography between the nations of the UK, there are a number of differences. These are:
+
+•	As Middle Layer Super Output Areas (MSOAs) do not exist in Northern Ireland a decision was made after consultation with NRS and NISRA to align with Local Government Districts (LGDs). In the case of Scotland, after discussion with NRS, it was felt that LAs would be more suitable than Intermediate Zones (which have a smaller average size than MSOAs). This is different to England and Wales where WZs nest within with MSOAs.
+
+•	The geographic data used to align the postcode building blocks to the transport networks for England and Wales is based on Ordnance Survey's MasterMap® Integrated Transport NetworkTM Layer for roads and OS Meridian® 2 for railways. These same products were used for Scotland to ensure consistency but because the coverage of these products does not extend to Northern Ireland alternatives were needed. On the recommendation of the Land and Property Services
+(LPS – the Northern Irish equivalent of Ordnance Survey) this was based on the Ordnance Survey Northern Ireland (OSNI) 1:50 000 Scale Transport Vector.
+
+•	In Northern Ireland Small Areas (the Northern Irish equivalent of Output Areas) were used as the building blocks for the WZ design process. 
+
+•	Northern Ireland workplace zone boundaries were designed based on the Irish National Grid at the request of NISRA.
+
+•	In Scotland there are more offshore oil and gas installations than elsewhere in the UK. A decision was taken to exclude offshore workers as although they were recorded in the 2011 Census in Scotland they were not recorded by the other UK countries. This treatment is therefore consistent with what was done for England, Wales and Northern Ireland. 
+
+•	In Scotland there are some postcodes which are split across LAs or between offshore islands and the mainland. The effect of this is that the working population is split into two or more parts depending on how the postcode is split. These counts, whilst not contributing to the initial design, were added to the data to provide consistency with other Scottish figures. The effect of initially excluding this population has been to create some slightly larger WZs than would otherwise have been generated by the automated process.
+
+•	After the first set of Scottish WZs were created and sent to NRS for quality assurance it was found that there were a small number of WZs containing less than 200 workers or three business postcodes using NRS counts and postcode centroids. Manual intervention was needed by merging neighbouring WZs based on a set of criteria agreed between ONS and NRS until all contained at least 200 workers and three business postcodes. These criteria are:
+
+•	Longest shared boundary;
+•	Lowest population;
+•	Under-threshold areas; 
+•	Background mapping; 
+•	NRS recommendation. 
+
+•	Note that the census outputs produced by NRS for Scottish WZs are based on the lookup of Scottish postcodes (including splits) to WZs, in order to ensure consistency is maintained with other census outputs for Scottish workplace data.
+
+•	In Scotland after the second round of processing if any OAs remained unresolved, in other words WZs had not been created, they were subject to manual intervention. Some of the smaller offshore islands fell into this category where they were merged with neighbouring islands or nearby parts of the mainland until all contained a minimum of 200 workers and three postcodes. Also in Scotland, some WZs shaped like a bow tie as a result of the automated zone tool were modified to produce more acceptable shapes. 
+</gco:CharacterString>
+						</gmd:statement>
+					</gmd:LI_Lineage>
+				</gmd:lineage>
+			</gmd:DQ_DataQuality>
+		</gmd:dataQualityInfo>
+		<gmd:referenceSystemInfo>
+			<gmd:MD_ReferenceSystem>
+				<gmd:referenceSystemIdentifier>
+					<gmd:RS_Identifier>
+						<gmd:code>
+							<gco:CharacterString>Great Britain National Grid</gco:CharacterString>
+						</gmd:code>
+					</gmd:RS_Identifier>
+				</gmd:referenceSystemIdentifier>
+			</gmd:MD_ReferenceSystem>
+		</gmd:referenceSystemInfo>
+		<gmd:contact>
+			<gmd:CI_ResponsibleParty>
+				<gmd:organisationName>
+					<gco:CharacterString>National Records of Scotland</gco:CharacterString>
+				</gmd:organisationName>
+				<gmd:positionName>
+					<gco:CharacterString>Geography Branch</gco:CharacterString>
+				</gmd:positionName>
+				<gmd:contactInfo>
+					<gmd:CI_Contact>
+						<gmd:address>
+							<gmd:CI_Address>
+								<gmd:deliveryPoint>
+									<gco:CharacterString>Ladywell House, Ladywell Road</gco:CharacterString>
+								</gmd:deliveryPoint>
+								<gmd:city>
+									<gco:CharacterString>Edinburgh</gco:CharacterString>
+								</gmd:city>
+								<gmd:postalCode>
+									<gco:CharacterString>EH12 7TF</gco:CharacterString>
+								</gmd:postalCode>
+								<gmd:electronicMailAddress>
+									<gco:CharacterString>geographycustomerservices@nrscotland.gov.uk</gco:CharacterString>
+								</gmd:electronicMailAddress>
+								<gmd:country>
+									<gmd:Country codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#Country" codeListValue="GBR">United Kingdom of Great Britain &amp; N. Ireland</gmd:Country>
+								</gmd:country>
+							</gmd:CI_Address>
+						</gmd:address>
+					</gmd:CI_Contact>
+				</gmd:contactInfo>
+				<gmd:role>
+					<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="pointOfContact">Point of contact</gmd:CI_RoleCode>
+				</gmd:role>
+			</gmd:CI_ResponsibleParty>
+		</gmd:contact>
+	</gmd:GEMINI_Metadata></metadata>
